@@ -1,0 +1,409 @@
+www.youtube.com 12
+  Advertising 10
+    Aggregate Knowledge
+    DoubleClick
+    DoubleClick Spotlight
+    Google AdSense
+    Google AdWords Conversion
+    Google Dynamic Remarketing
+    Google Publisher Tags
+    Google Safeframe
+    Google Pingback
+    Sizmek
+  Site Analytics 1
+    Google Analytics
+  Essentials 1
+    Google Tag Manager
+www.eff.org 0
+www.foxnews.com 97
+  Advertisement 81
+    [x+1]
+    Acuity Ads
+    Adacado
+    Adap.tv
+    AddThis
+    AdForm
+    AdGear
+    Adify
+    Adition
+    Admedo
+    Adobe Audience Manager
+    Adsnative
+    Advertising.com
+    Aggregate Knowledge
+    AlmondNet
+    Altitude Digital
+    AppNexus
+    Atlas
+    Audience Science
+    BlueKai
+    BidSwitch
+    Bidswitch
+    BidTheatre
+    BrightRoll
+    Content.ad
+    Conversant
+    Criteo
+    cXense
+    DataXu
+    Dotomi
+    DoubleClick
+    DoubleClick Spotlight
+    DoubleVerify
+    Drawbridge
+    EQ Advertising
+    Eyeview
+    eXelate
+    Google Adsense
+    Google Pingback
+    Google Publisher Tags
+    Google Safeframe
+    Index Exchange
+    Infectious Media
+    Integral Ad Science
+    Intent IQ
+    LinkShare
+    LKQD
+    Magnetic
+    Media Innovation Group
+    Media.net
+    MediaMath
+    Moat
+    MyThings
+    Netmining
+    NetRatings SiteCensus
+    NetSeer
+    Neustar AdAdvisor
+    Nexage
+    OpenX
+    Outbrain
+    Platform161
+    Pubmatic
+    PulsePoint
+    Quantcast
+    RadiumOne
+    Research Now
+    Rhythmone Beacon
+    Rubicon
+    Run
+    ScoreCard Research Beacon
+    Simpli.fi
+    Sovrn
+    StickyAds
+    Taboola
+    Tapad
+    TradeDesk
+    Tribal Fusion
+    TripleLift
+    Videology
+    Visible Measures
+    Yahoo Ad Exchange
+  Site Analytics 8
+    AdTech
+    Chartbeat
+    Janrain
+    Mixpanel
+    New Relic
+    Omniture (Adobe Analytics)
+    Optimizely
+    Outbrain Analytics
+  Comments 1
+    Livefyre
+  Social Media 3
+    Twitter Buttons
+    Twitter Syndication
+    Facebook Social Plugins
+  Customer Interaction 2
+    ZergNet
+    Beeswax
+  Essential 1
+    Evidon Ad Notice
+  Audio/Video Player 1
+    Rhythmxchange
+www.facebook.com 2
+  Advertisement 2
+    DoubleClick
+    Convertro
+www.cnn.com 31
+  Advertisement 22
+    Advertising.com
+    Amazon Associates
+    AppNexus
+    Bing Ads
+    Conversant
+    Convertro
+    Criteo
+    DoubleClick
+    Facebook Custom Audience
+    Google Adsense
+    Google Dynamic Remarketing
+    Google Publisher Tags
+    Google Safeframe
+    Krux Digital
+    Moat
+    NetRating SiteCensus
+    Outbrain
+    Outbrain Pixel
+    Rubicon
+    Scorecard Research Beacon
+    ShareThrough
+    StickyAds
+    Zypmedia
+  Site Analytics 4
+    ChartBeat
+    Gigya
+    Omniture (Adobe Analytics)
+    Optimizely
+  Customer Interaction 2
+    Gigya Beacon
+    Usabilla
+  Social Media 1
+    Facebook Connect
+  Audio/Video Player 1
+    FreeWheel
+  Comments 1
+    Livefyre
+www.paypal.com 12
+  Advertisement 9
+    Advertising.com
+    AppNexus
+    Conversant
+    DoubleClick
+    Facebook Custom Audience
+    Improve Digital
+    LiveRamp
+    MediaMath
+    Resonate Networks
+  Site Analytics 3
+    GA Audience
+    Google Analytics
+    Visual IQ
+www.amazon.com 10
+  Advertisement 9
+    Adometry
+    Amazon Associates
+    DoubleClick
+    DoubleClick Spotlight
+    DoubleVerify
+    Google Adsense
+    Integral Ad Science
+    NetRating SiteCensus
+    Research Now
+  Social Media 1
+    Facebook Beacon
+www.chase.com 1
+  Advertisement 1
+    DoubleClick
+play.spotify.com 26
+  Advertisement 17
+    Adobe Audience Manager
+    Bing Ads
+    BlueKai
+    DoubleClick
+    DoubleClick Ad Exchange-Buyer
+    DoubleClick Bid Manager
+    DoubleClick Floodlight
+    Facebook Custom Audience
+    Google Dynamic Remarketing
+    LiveRamp
+    Lotame
+    ScoreCard Research Beacon
+    Tapad
+    TradeDesk
+    Twitter Advertising
+    Yahoo Ad Exchange
+    Yahoo DOT Tag
+  Site Analytics 7
+    GA Audience
+    Google Analytics
+    Hotjar
+    SessionCam
+    Twitter Analytics
+    Visual IQ
+    Yahoo Analytics
+  Social Media 1
+    Facebook Connect
+  Essential 1
+    Google Tag Manager
+www.bankofamerica.com
+  Advertisement
+    Adobe Audience Manager
+    Adobe Test & Target
+    DoubleClick Floodlight
+  Customer Interaction
+    TouchCommerce
+  Essential
+    Tealium
+www.ebay.com 18
+  Advertisement 16
+    Adap.tv
+    Adobe Audience Manager
+    Advertising.com
+    AppNexus
+    BlueKai
+    DoubleClick
+    Ebay Stats
+    Google Adsense
+    Google Publisher Tags
+    Google Safeframe
+    Index Exchange
+    MediaMath
+    OpenX
+    PubMatic
+    Rubicon
+    Turn Inc.
+  Site Analytics 1
+    ADTECH
+  Essential 1
+    Adobe Dynamic Tag Management
+www.delta.com 21
+  Advertisement 13
+    ADARA Analytics
+    Adobe Audience Manager
+    Adobe Test & Target
+    AppNexus
+    Bing Ads
+    Criteo
+    DoubleClick
+    DoubleClick Ad Exchange-Buyer
+    Facebook Custom Audience
+    Google Dynamic Remarketing
+    LiveRamp
+    OpenX
+    RUN
+    TubeMogul
+  Site Analytics 5
+    Celebrus
+    Crazy Egg
+    Omniture (Adobe Analytics)
+    TrackJS
+    Yahoo Analytics
+  Social Media 1
+    Facebook Connect
+  Customer Interaction 1
+    OpinionBar
+  Comments 1
+    Answer Cloud Service
+www.united.com 10
+  Advertisement 8
+    ADARA Analytics
+    DoubleClick
+    DoubleClick Floodlight
+    gumgum
+    Maxymiser
+    Rubicon
+    Yahoo Ad Exchange
+    Yieldlab
+  Site Analytics 2
+    GA Audience
+    Google Analytics
+musical.ly 0
+www.netflix.com 6
+  Advertisement 5
+    BidSwitch
+    DoubleClick
+    DoubleClick Floodlight
+    Facebook Custom Audience
+    Google Dynamic Remarketing
+  Essential 1
+    Signal
+www.twitter.com
+  Advertisement
+    DoubleClick
+  Site Analytics
+    GA Audience
+    Google Analytics
+    Twitter Analytics
+  Social Media
+    Twitter Syndication
+www.google.com 0
+www.bing.com 0
+maps.google.com 0
+www.mapquest.com 44
+  Advertisement 37
+    Acuity Ad
+    Adap.tv
+    AddThis
+    Adform
+    AdGear
+    Adify
+    Adobe Audience Manager
+    Advertising.com
+    Aggregate Knowledge
+    Amazon Associates
+    AppNexus
+    Atlas
+    BidSwitch
+    BlueKai
+    Brightroll
+    ClickCertain
+    Connexity
+    Convertro
+    CPX Interactive
+    Datalogix
+    DataXu
+    Digilant
+    Dotomi
+    DoubleClick
+    DoubleClick Bid Manager
+    DoubleClick Spotlight
+    Drawbridge
+    Dstillery
+    eXelate
+    GetIntent
+    Google Adsense
+    Google Pingback
+    i-Behavior
+    Index Exchange
+    Integral Ad Science
+    Krux Digital
+    LiveRamp
+    Lotame
+    MaxPoint Interactive
+    Media Innovation Group
+    MediaMath
+    Media.net
+    Moat
+    myThings
+    OpenX
+    OwnerIQ
+    Pubmatic
+    PulsePoint
+    Quantcast
+    RadiumOne
+    Rhythmone Beacon
+    Rocket Fuel
+    Rubicon
+    RUN
+    StoreCard Research Beacon
+    Semasio
+    ShareThrough
+    Simpli.fi
+    SiteScout
+    SMART AdServer
+    Sovrn
+    Tapad
+    Teads
+    TradeDesk
+    TribalFusion
+    TripleLift
+    Turn Inc.
+    Yahoo Ad Exchange
+    Yahoo Ad Manager Plus
+  Site Analytics 6
+    ADTECH
+    AOL CDN
+    Google Analytics
+    New Relic
+    Omniture
+    TellApart
+    VoiceFive
+  Essential 2
+    Evidon Ad Notice
+    Google Tag Manager
+    Signal
+    TRUSTe Notice
+  Social Media 1
+    Facebook Connect
+  Customer Interaction 1
+    Beeswax
